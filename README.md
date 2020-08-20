@@ -1,2 +1,2 @@
 # ConexaoBD
-API criada para acesso ao bando de dados Mysql
+API criada para acesso ao bando de dados
