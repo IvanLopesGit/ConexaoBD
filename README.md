@@ -1,2 +1,2 @@
 # ConexaoBD
-API criada para acesso ao bando de dados
+API criada para acesso ao banco de dados
